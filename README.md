@@ -12,8 +12,8 @@
 
 **Более подробный разбор работы программы можно посмотреть по следующей ссылке:**  
 [Видео](https://drive.google.com/file/d/1mdmHbS3gHLe0Jgnawo9S52Zv5JI6QxOA/view?usp=sharing)  
-**Ниже приведены скриншоты работы программы**  
-1.![test1](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test1.JPG?raw=true "test1") 
-2.![test2](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test2.JPG?raw=true "test2") 
-3.![test3](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test3.JPG?raw=true "test3") 
-4.![test4](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test4.JPG?raw=true "test4") 
+**Ниже приведены скриншоты работы программы:**  
+1.![test1](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test1.JPG?raw=true "test1")   
+2.![test2](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test2.JPG?raw=true "test2")    
+3.![test3](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test3.JPG?raw=true "test3")    
+4.![test4](https://github.com/d1den/Mobile_robot_navigation-11.03.2020/blob/master/images/test4.JPG?raw=true "test4")    
